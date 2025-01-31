@@ -23,8 +23,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Pinterest: smooth user experience, fast loading, great search capabilities
 - Netflix: fast video streaming, interactive elements like loading graphics, good controls
 
-###App I want to make:
-####Habbit tracker app
+##App I want to make:
+##Habbit tracker app
 - Allow user to track any habit they want to do
 - Helps with self-discipline
 - Good UI/UX
